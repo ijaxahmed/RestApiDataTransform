@@ -1,0 +1,4 @@
+Main-Class: com.org.rest.api.client.SampleClient
+Implementation-Title: SampleClient
+Implementation-Vendor: Ijaz Ahmed Gmbh
+Implementation-Version: 1.0
