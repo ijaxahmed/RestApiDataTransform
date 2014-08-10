@@ -13,7 +13,7 @@ Compile:
 ----------------------------------------
 - Compile Application using following Maven command
               clean compile package assembly:single
--Out Jar will be created in Target folder (target/SampleRestApis-exe.jar)
+- Jar will be created in Target folder (target/SampleRestApis-exe.jar)
 
 RUN:
 ----------------------------------------
